@@ -10,9 +10,14 @@ dsacstar/dsacstar.egg-info/
 datasets/7scenes*
 datasets/mip360*
 datasets/t2*
+datasets/TexturePoorSfM_dataset/
 split_files/
 
 # Outputs.
 results_*/
 
 images/
+
+# pixi environments
+.pixi/*
+!.pixi/config.toml
