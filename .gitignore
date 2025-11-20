@@ -11,10 +11,15 @@ datasets/7scenes*
 datasets/mip360*
 datasets/t2*
 datasets/TexturePoorSfM_dataset/
+data/
 split_files/
 
 # Outputs.
 results_*/
+out/
+out_*/
+out_sanggyun/
+out_jinhwoi/
 
 images/
 
